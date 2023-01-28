@@ -26,7 +26,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menezes-dev&layout=compact&theme=onedark)](https://github.com/menezes-dev/github-readme-stats)
 
-<div style="display: flex; align-items: column; justify-content: center; gap: 40px; border: 2px solid; border-radius: 10px">
-    <span style="text-align: center">💭Acredito que através de linhas de códigos, os devs mudam o mundo!</span>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+    <span style="text-align: center">💭Acredito que através de linhas de códigos, os devs mudam o mundo!</span><br>
     <img src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif"/>
 </div>
