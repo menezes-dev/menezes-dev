@@ -24,9 +24,7 @@
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menezes-dev&layout=compact&theme=onedark)](https://github.com/menezes-dev/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=menezes-dev&theme=onedark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menezes-dev&layout=compact&theme=onedark)](https://github.com/menezes-dev/github-readme-stats)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=menezes-dev&theme=onedark)](https://git.io/streak-stats)
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <span style="text-align: center">💭Acredito que através de linhas de códigos, os devs mudam o mundo!</span><br>
