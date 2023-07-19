@@ -25,6 +25,8 @@
   </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menezes-dev&layout=compact&theme=onedark)](https://github.com/menezes-dev/github-readme-stats)
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=menezes-dev&theme=onedark)](https://git.io/streak-stats)
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
